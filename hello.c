@@ -2,7 +2,6 @@
 
 int main(void)
 {
-    printf("Hello, OS Lab!
-");
+    printf("Hello, OS Lab!\n");
     return 0;
 }
